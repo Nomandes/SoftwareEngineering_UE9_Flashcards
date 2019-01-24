@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/Nomandes/SoftwareEngineering_UE9_Flashcards.svg?branch=master)](https://travis-ci.com/Nomandes/SoftwareEngineering_UE9_Flashcards)

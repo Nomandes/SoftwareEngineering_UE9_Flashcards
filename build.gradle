@@ -49,3 +49,8 @@ jar {
         attributes("Main-Class":"de.tud.cs.se.flashcards.Main")
     }
 }
+buildScan {
+    termsOfServiceUrl = 'https://gradle.com/legal/terms-of-service'
+    termsOfServiceAgree = 'yes'
+    publishAlwaysIf(System.getenv('CI') != null)
+}
